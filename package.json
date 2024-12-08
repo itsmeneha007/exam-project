@@ -1,0 +1,25 @@
+{
+  "name": "exam-project",
+  "version": "1.0.0",
+  "description": "project assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsmeneha007/exam-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsmeneha007/exam-project/issues"
+  },
+  "homepage": "https://github.com/itsmeneha007/exam-project#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.8.4"
+  }
+}
